@@ -1,0 +1,10 @@
+1. Difference between jar/war/ear files
+JAR- (JAVA Archive)
+     Jar file is a collection of .class files.
+     JAR files are used in J2EE for packaging EJBs and client-side Java Applications.
+WAR- (WEB Archive)
+     War file holds all web application related components like servlets,jsps,html pages,css, etc..
+     1 war file for each web application.
+EAR - (Enterprice Archive)
+     EAR holds all JAVA related components used for enterprise applications.
+     (.jar and .war) are packaged as JAR file with .ear (enterprise archive) extension and deployed into Application Server.
